@@ -3,5 +3,5 @@
   "description": "App specific volume adjustment",
   "uuid": "ok_mixer@enklht.github.io",
   "url": "https://github.com/enklht/ok_mixer",
-  "shell-version": ["50"]
+  "shell-version": ["50", "51"]
 }
