@@ -1,6 +1,6 @@
 {
   "name": "OK Mixer",
-  "description": "App specific volume adjustment",
+  "description": "Per-application audio control for GNOME Shell, for GNOME 50+\n\nOK Mixer is a clean rewrite of the now-archived GNOME Application Volume Mixer extension, focused on simplicity and compatibility.\n\nUsage:\nOpen the Quick Settings menu in the top-right corner and select Mixer. You can adjust the volume of individual running applications using their respective sliders.",
   "uuid": "ok_mixer@enklht.github.io",
   "url": "https://github.com/enklht/ok_mixer",
   "shell-version": ["50", "51"]
