@@ -22,6 +22,14 @@ Open quick settings and use the Mixer toggle to adjust per-app volumes.
 - Entry point: `extension.js`
 - Modules: `src/appVolumeSlider.js`, `src/mixerToggle.js`, `src/mixerIndicator.js`
 
+## Packaging
+
+When publishing, create the extension package using:
+
+```bash
+gnome-extensions pack . --extra-source src/ --out-dir dist/
+```
+
 ## Credits
 
 Inspired by Gnome Application Volume Mixer extension (archived): <https://github.com/mymindstorm/gnome-volume-mixer>.
